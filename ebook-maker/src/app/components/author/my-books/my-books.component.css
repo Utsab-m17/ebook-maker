@@ -1,0 +1,8 @@
+.button-group {
+    display: inline-block;
+    /* Ensure buttons are in the same line */
+}
+
+.btn-margin-right {
+    margin-right: 10px;
+}
